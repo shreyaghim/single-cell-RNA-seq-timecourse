@@ -1,12 +1,12 @@
 scRNAtrt_tc
 ================
-Shreya Ghimire
-2023-01-30
+###Shreya Ghimire
+###2023-01-30
 
 ## Introduction
 
 This script is for analyzing and identifying cell types in 10X Illumina
-single cell RNA sequencing data from human airway epithelial cells
+Single-cell RNA sequencing data from human airway epithelial cells
 treated with a cytokine at 3 time points.
 
 ## Download fastq files
